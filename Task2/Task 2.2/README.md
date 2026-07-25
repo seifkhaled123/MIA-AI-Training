@@ -18,5 +18,5 @@ python3 -m pip install -r requirements.txt
 python3 pca_analysis.py
 ```
 
-Alternatively, run all cells in `test.ipynb`. Generated files are placed in
+Alternatively, run all cells in `fifa_pca_analysis.ipynb`. Generated files are placed in
 `outputs/`, and the written analysis is in `REPORT.md`.
