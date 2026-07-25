@@ -1,0 +1,59 @@
+{
+  "target": "M. Salah",
+  "player_count": 18147,
+  "features": [
+    "Finishing",
+    "ShortPassing",
+    "Dribbling",
+    "SprintSpeed",
+    "Strength",
+    "Stamina",
+    "Interceptions",
+    "StandingTackle",
+    "Value"
+  ],
+  "explained_variance_ratio": [
+    0.4796570065335847,
+    0.2224151488430988,
+    0.10826634055540445,
+    0.08359183933505565,
+    0.05076217557615605,
+    0.02555945714950646,
+    0.014420988141641486,
+    0.009023750541491392,
+    0.006303293324060992
+  ],
+  "top5_overlap": {
+    "Cosine": {
+      "Cosine": 5,
+      "Euclidean": 2,
+      "Manhattan": 3,
+      "Pearson": 2
+    },
+    "Euclidean": {
+      "Cosine": 2,
+      "Euclidean": 5,
+      "Manhattan": 4,
+      "Pearson": 0
+    },
+    "Manhattan": {
+      "Cosine": 3,
+      "Euclidean": 4,
+      "Manhattan": 5,
+      "Pearson": 1
+    },
+    "Pearson": {
+      "Cosine": 2,
+      "Euclidean": 0,
+      "Manhattan": 1,
+      "Pearson": 5
+    }
+  },
+  "final_shortlist": [
+    "K. Mbappé",
+    "L. Sané",
+    "Coutinho",
+    "Marco Asensio",
+    "J. Rodríguez"
+  ]
+}

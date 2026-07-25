@@ -1,0 +1,21 @@
+Experiment,Metric,Rank,ID,Name,Age,Nationality,Club,Position,Value,Score
+Raw,Cosine,1,189242,Coutinho,26.0,Brazil,FC Barcelona,LW,69500000.0,0.9999999999999296
+Raw,Cosine,2,198710,J. Rodríguez,26.0,Colombia,FC Bayern München,LAM,69500000.0,0.9999999999999074
+Raw,Cosine,3,222492,L. Sané,22.0,Germany,Manchester City,LW,61000000.0,0.9999999999998993
+Raw,Cosine,4,218667,Bernardo Silva,23.0,Portugal,Manchester City,RW,59500000.0,0.9999999999998979
+Raw,Cosine,5,190460,C. Eriksen,26.0,Denmark,Tottenham Hotspur,CAM,73500000.0,0.99999999999988
+Raw,Euclidean,1,189242,Coutinho,26.0,Brazil,FC Barcelona,LW,69500000.0,26.076809620810597
+Raw,Euclidean,2,198710,J. Rodríguez,26.0,Colombia,FC Bayern München,LAM,69500000.0,29.899832775452108
+Raw,Euclidean,3,200389,J. Oblak,25.0,Slovenia,Atlético Madrid,GK,68000000.0,1500000.0067033332
+Raw,Euclidean,4,177003,L. Modri?,32.0,Croatia,Real Madrid,RCM,67000000.0,2500000.0005698
+Raw,Euclidean,5,193080,De Gea,27.0,Spain,Manchester United,GK,72000000.0,2500000.0031818
+Raw,Manhattan,1,198710,J. Rodríguez,26.0,Colombia,FC Bayern München,LAM,69500000.0,60.0
+Raw,Manhattan,2,189242,Coutinho,26.0,Brazil,FC Barcelona,LW,69500000.0,66.0
+Raw,Manhattan,3,200389,J. Oblak,25.0,Slovenia,Atlético Madrid,GK,68000000.0,1500358.0
+Raw,Manhattan,4,177003,L. Modri?,32.0,Croatia,Real Madrid,RCM,67000000.0,2500127.0
+Raw,Manhattan,5,193080,De Gea,27.0,Spain,Manchester United,GK,72000000.0,2500307.0
+Raw,Pearson,1,183277,E. Hazard,27.0,Belgium,Chelsea,LF,93000000.0,0.9999999999999878
+Raw,Pearson,2,190871,Neymar Jr,26.0,Brazil,Paris Saint-Germain,LW,118500000.0,0.9999999999999866
+Raw,Pearson,3,231747,K. Mbappé,19.0,France,Paris Saint-Germain,RM,81000000.0,0.999999999999985
+Raw,Pearson,4,211110,P. Dybala,24.0,Argentina,Juventus,LF,89000000.0,0.9999999999999756
+Raw,Pearson,5,158023,L. Messi,31.0,Argentina,FC Barcelona,RF,110500000.0,0.9999999999999697

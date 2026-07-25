@@ -1,0 +1,21 @@
+Experiment,Metric,Rank,ID,Name,Age,Nationality,Club,Position,Value,Score
+Standardized,Cosine,1,231747,K. Mbappé,19.0,France,Paris Saint-Germain,RM,81000000.0,0.996826618820408
+Standardized,Cosine,2,220834,Marco Asensio,22.0,Spain,Real Madrid,RW,54000000.0,0.995266989314954
+Standardized,Cosine,3,194765,A. Griezmann,27.0,France,Atlético Madrid,CAM,78000000.0,0.9946312118214979
+Standardized,Cosine,4,183277,E. Hazard,27.0,Belgium,Chelsea,LF,93000000.0,0.9939076872181071
+Standardized,Cosine,5,222492,L. Sané,22.0,Germany,Manchester City,LW,61000000.0,0.9934466026899701
+Standardized,Euclidean,1,189242,Coutinho,26.0,Brazil,FC Barcelona,LW,69500000.0,1.6256396709578866
+Standardized,Euclidean,2,194765,A. Griezmann,27.0,France,Atlético Madrid,CAM,78000000.0,1.9633828895964762
+Standardized,Euclidean,3,198710,J. Rodríguez,26.0,Colombia,FC Bayern München,LAM,69500000.0,1.973070519988547
+Standardized,Euclidean,4,222492,L. Sané,22.0,Germany,Manchester City,LW,61000000.0,2.0152761036237754
+Standardized,Euclidean,5,20801,Cristiano Ronaldo,33.0,Portugal,Juventus,ST,77000000.0,2.0745464886689153
+Standardized,Manhattan,1,198710,J. Rodríguez,26.0,Colombia,FC Bayern München,LAM,69500000.0,3.8167781160199974
+Standardized,Manhattan,2,194765,A. Griezmann,27.0,France,Atlético Madrid,CAM,78000000.0,3.898801831345163
+Standardized,Manhattan,3,231747,K. Mbappé,19.0,France,Paris Saint-Germain,RM,81000000.0,3.9285676730443213
+Standardized,Manhattan,4,189242,Coutinho,26.0,Brazil,FC Barcelona,LW,69500000.0,3.998642639987668
+Standardized,Manhattan,5,222492,L. Sané,22.0,Germany,Manchester City,LW,61000000.0,4.413288062181795
+Standardized,Pearson,1,183277,E. Hazard,27.0,Belgium,Chelsea,LF,93000000.0,0.998188651792419
+Standardized,Pearson,2,231747,K. Mbappé,19.0,France,Paris Saint-Germain,RM,81000000.0,0.9981433401600891
+Standardized,Pearson,3,190871,Neymar Jr,26.0,Brazil,Paris Saint-Germain,LW,118500000.0,0.998007872866606
+Standardized,Pearson,4,211110,P. Dybala,24.0,Argentina,Juventus,LF,89000000.0,0.9975301994186908
+Standardized,Pearson,5,158023,L. Messi,31.0,Argentina,FC Barcelona,RF,110500000.0,0.9971153816870904
