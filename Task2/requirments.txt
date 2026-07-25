@@ -1,0 +1,9 @@
+kagglehub[pandas-datasets]
+pandas
+ipykernel
+seaborn
+nbformat
+nbclient
+numpy
+matplotlib
+jupyter
